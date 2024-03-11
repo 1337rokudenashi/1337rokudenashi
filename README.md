@@ -8,3 +8,6 @@ Hai, saya Alpha Prima Galatheo Qallbu, atau juga dikenal sebagai 1337rokudenashi
 - [OhSINT (2023) - TryHackMe)](https://tryhackme.com/1337rokudenashi/badges/ohsint?trk=public_profile_see-credential)
 
 Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keterampilan Open Source Intelligence, termasuk pengumpulan dan analisis informasi dari sumber terbuka.
+
+# Certification:
+- [Cyberwarfare Labs Certified Cyber Security Analyst [C3SA] (2023) - Cyberwarfare Labs](https://www.credential.net/ec968e08-dae9-4e51-93f7-e57b725977f0)
