@@ -18,7 +18,7 @@ Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keter
 - [CSI Linux Certified Investigator (2024) - CSI Linux](https://csilinux.com/academy/badges/badge.php?hash=361e1c15a5f74873d6783089227904b768120b81)
 - [CyberWarFare Labs Certified Cybersecurity Analyst (2023) - CyberWarFare Labs](https://www.credential.net/ec968e08-dae9-4e51-93f7-e57b725977f0)
 
-# Certificate of Appreciation:
-- [Appreciation for Findings and Bug Reports on Web Applications (2024) - PT. WaGoMu KREATIF ASIA](https://github.com/1337rokudenashi/certificateofappreciation/blob/main/PT.%20WaGoMu%20KREATIF%20ASIA.pdf)
+# Appreciation:
+- [Appreciation - Web Application Security Vulnerability Findings and Reports (2024) - PT. WaGoMu KREATIF ASIA](https://github.com/1337rokudenashi/certificateofappreciation/blob/main/PT.%20WaGoMu%20KREATIF%20ASIA.pdf)
 
 PT. WaGoMu KREATIF ASIA memberikan apresiasi kepada saya karena telah menemukan dan melaporkan kerentanan pada keamanan aplikasi web milik mereka.
