@@ -14,9 +14,9 @@ Lencana Ethical Hacker dari Cisco menandakan keberhasilan saya dalam menguasai k
 Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keterampilan Open Source Intelligence, termasuk pengumpulan dan analisis informasi dari sumber terbuka.
 
 # Certification:
-- [Fortinet Certified Associate Cybersecurity (FCA in Cybersecurity) (2024) - Fortinet](https://www.credly.com/badges/d00b6c04-b7f3-4725-a351-e5d055d65c30)
-- [CSI Linux Certified Investigator (CSIL-CI) (2024) - CSI Linux](https://csilinux.com/academy/badges/badge.php?hash=361e1c15a5f74873d6783089227904b768120b81)
-- [Cyberwarfare Labs Certified Cyber Security Analyst (C3SA) (2023) - Cyberwarfare Labs](https://www.credential.net/ec968e08-dae9-4e51-93f7-e57b725977f0)
+- [Fortinet Certified Associate Cybersecurity (2024) - Fortinet](https://www.credly.com/badges/d00b6c04-b7f3-4725-a351-e5d055d65c30)
+- [CSI Linux Certified Investigator (2024) - CSI Linux](https://csilinux.com/academy/badges/badge.php?hash=361e1c15a5f74873d6783089227904b768120b81)
+- [Cyberwarfare Labs Certified Cybersecurity Analyst (2023) - Cyberwarfare Labs](https://www.credential.net/ec968e08-dae9-4e51-93f7-e57b725977f0)
 
 # Certificate of Appreciation:
 - [Kerentanan pada keamanan aplikasi web (2024) - PT. WaGoMu KREATIF ASIA](https://github.com/1337rokudenashi/certificateofappreciation/blob/main/PT.%20WaGoMu%20KREATIF%20ASIA.pdf)
