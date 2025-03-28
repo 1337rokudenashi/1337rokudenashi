@@ -18,4 +18,4 @@ Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keter
 # Accelerate Your IT Career
 - [Accelerate Your IT Career - Course-Net Indonesia](https://github.com/1337rokudenashi/accelerateyouritcareer/blob/main/1337rokudenashi.pdf)
 
-Saya telah mengikuti kelas Ethical Hacker dan Computer Hacking Forensic Investigator melalui Course-Net Indonesia. Kedua kelas ini diselenggarakan berdasarkan standar EC-Council dan dipandu oleh coach berpengalaman. Kurikulum yang disajikan sangat lengkap dan sesuai dengan kebutuhan industri. Melalui kelas ini, saya telah mendapatkan pemahaman mendalam tentang teknik hacking etis dan investigasi forensik komputer.
+Saya telah mengikuti kelas Ethical Hacker dan Computer Hacking Forensic Investigator melalui Course-Net Indonesia. Kedua kelas ini diselenggarakan berdasarkan standar EC-Council dan dipandu oleh coach berpengalaman.
