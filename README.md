@@ -1,5 +1,5 @@
 # About Me:
-Hai, saya Alpha Prima Galatheo Qallbu (1337rokudenashi). Saya memiliki ketertarikan, pengetahuan, serta keterampilan sebagai Security Researcher.
+Hai! Saya Alpha Prima Galatheo Qallbu (1337rokudenashi), seorang Security Researcher · Security Engineer. Saya memiliki ketertarikan, pengetahuan, serta keterampilan dalam keamanan ofensif.
 
 # ❤️ Stack:
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Hexo](https://img.shields.io/badge/Hexo-%23222222.svg?style=for-the-badge&logo=hexo&logoColor=#0E83CD) ![Hugo](https://img.shields.io/badge/Hugo-%23222222.svg?style=for-the-badge&logo=hugo&logoColor=#FF4088) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
