@@ -10,6 +10,7 @@ Hai! Saya Alpha Prima Galatheo Qallbu (1337rokudenashi), seorang Security Resear
 Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keterampilan Open Source Intelligence, termasuk pengumpulan dan analisis informasi dari sumber terbuka.
 
 # Certification:
+- [EC-Council Certified Threat Intelligence Analyst](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=dFBj4AjCFZBJcUCYap/bil6IuzQWVzJtE5T70qqNbps=)
 - [CyberWarFare Labs Certified Process Injection Analyst](https://www.credential.net/a59647d7-c097-4b0d-a0e1-e2f0133e3417)
 - [EC-Council Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=nDcHPAP9kH258sl4cIswBSI0IUMxdXWpiUbVZciCD1g=)
 - [EC-Council Certified Secure Computer User](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=LtAsrApl+2gjyUmFGBjydd3wYOsggToiCQhCyoVrCpY=)
