@@ -1,13 +1,13 @@
 # About Me:
-Hai! Saya Alpha Prima Galatheo Qallbu (1337rokudenashi), seorang Security Researcher · Security Engineer. Saya memiliki ketertarikan, pengetahuan, serta keterampilan dalam keamanan ofensif.
+An experienced offensive security specialist with a background as a Security Researcher and Security Engineer. Skilled in offensive security tools such as Osmedeus, Nuclei, and Burp Suite, which are actively used in security testing, and experienced in orchestrating offensive security workflows and architecting Security as a Service (SECaaS).
 
 # ❤️ Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Hexo](https://img.shields.io/badge/Hexo-%23222222.svg?style=for-the-badge&logo=hexo&logoColor=#0E83CD) ![Hugo](https://img.shields.io/badge/Hugo-%23222222.svg?style=for-the-badge&logo=hugo&logoColor=#FF4088) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%2523121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%2523121011.svg?style=for-the-badge&logo=burpsuite&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%2523121011.svg?style=for-the-badge&logo=kali-linux&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%2523121011.svg?style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # Badge:
 - [TryHackMe OhSINT](https://tryhackme.com/1337rokudenashi/badges/ohsint?trk=public_profile_see-credential)
 
-Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keterampilan Open Source Intelligence, termasuk pengumpulan dan analisis informasi dari sumber terbuka.
+OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it to solve challenges.
 
 # Certification:
 - [EC-Council Certified Threat Intelligence Analyst](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=dFBj4AjCFZBJcUCYap/bil6IuzQWVzJtE5T70qqNbps=)
@@ -20,4 +20,4 @@ Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keter
 # Accelerate Your IT Career
 - [Accelerate Your IT Career - Course-Net Indonesia](https://github.com/1337rokudenashi/accelerateyouritcareer/blob/main/1337rokudenashi.pdf)
 
-Saya telah mengikuti kelas Penetration Tester dan Computer Hacking Forensic Investigator melalui Course-Net Indonesia. Kedua kelas ini diselenggarakan berdasarkan standar EC-Council dan dipandu oleh coach berpengalaman.
+PenTester Specialist training at Course-Net Indonesia, EC-Council standard, coached by experts.
