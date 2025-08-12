@@ -17,6 +17,11 @@ OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it t
 - [CyberWarFare Labs Certified Cybersecurity Analyst](https://www.credential.net/ec968e08-dae9-4e51-93f7-e57b725977f0)
 - [Fortinet Certified Associate Cybersecurity](https://www.credly.com/badges/d00b6c04-b7f3-4725-a351-e5d055d65c30)
 
+# Awards
+- Hall of Fame for Security Researchers at KINTOテクノロジーズ株式会社 (see [1337rokudenashi](https://issuehunt.io/programs/fbf932b9-9969-499b-ae11-2e607dca3649/hof))
+
+今日は、IssueHuntが行っている Vulnerability Disclosure Program (VDP) にまた貢献しました。KINTOテクノロジーズ株式会社 のシステムの安全を守る手助けができて、とても嬉しいです。
+
 # Accelerate Your IT Career
 - [Accelerate Your IT Career - Course-Net Indonesia](https://github.com/1337rokudenashi/1337r-dev/blob/main/Accelerate%20Your%20IT%20Career.pdf)
 
