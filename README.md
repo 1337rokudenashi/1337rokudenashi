@@ -26,3 +26,4 @@ Hall of Fame for Security Researchers at KINTOテクノロジーズ株式会社 
 [Accelerate Your IT Career](https://github.com/1337rokudenashi/1337r-dev/blob/main/Accelerate%20Your%20IT%20Career.pdf)
 
 Participated in cybersecurity specialist training at Course-Net Indonesia, EC-Council aligned, expert-led. Skilled in tackling security threats.
+
