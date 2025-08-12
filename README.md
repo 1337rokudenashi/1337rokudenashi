@@ -2,7 +2,7 @@
 An experienced offensive security specialist with a background as a Security Researcher and Security Engineer. Skilled in offensive security tools such as Osmedeus, Nuclei, and Burp Suite, which are actively used in security testing, and experienced in orchestrating offensive security workflows and architecting Security as a Service (SECaaS).
 
 # ❤️ Stack:
-![Bash](https://img.shields.io/badge/Bash-%2523121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%2523121011.svg?style=for-the-badge&logo=burpsuite&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%2523121011.svg?style=for-the-badge&logo=kali-linux&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%2523121011.svg?style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%2523121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Burp Suite](https://img.shields.io/badge/burp%20suite-%2523121011.svg?style=for-the-badge&logo=burpsuite&logoColor=white) ![Kali Linux](https://img.shields.io/badge/kali%20linux-%2523121011.svg?style=for-the-badge&logo=kali-linux&logoColor=white) ![Discord](https://img.shields.io/badge/discord-%2523121011.svg?style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # Badge:
 - [TryHackMe OhSINT](https://tryhackme.com/1337rokudenashi/badges/ohsint?trk=public_profile_see-credential)
@@ -20,4 +20,4 @@ OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it t
 # Accelerate Your IT Career
 - [Accelerate Your IT Career - Course-Net Indonesia](https://github.com/1337rokudenashi/accelerateyouritcareer/blob/main/1337rokudenashi.pdf)
 
-PenTester Specialist training at Course-Net Indonesia, EC-Council standard, coached by experts.
+Participated in cybersecurity specialist training at Course-Net Indonesia, EC-Council aligned, expert-led. Skilled in tackling security threats.
