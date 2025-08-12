@@ -18,6 +18,6 @@ OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it t
 - [Fortinet Certified Associate Cybersecurity](https://www.credly.com/badges/d00b6c04-b7f3-4725-a351-e5d055d65c30)
 
 # Accelerate Your IT Career
-- [Accelerate Your IT Career - Course-Net Indonesia](https://github.com/1337rokudenashi/accelerateyouritcareer/blob/main/1337rokudenashi.pdf)
+- [Accelerate Your IT Career - Course-Net Indonesia](https://github.com/1337rokudenashi/1337r-dev/blob/main/Accelerate%20Your%20IT%20Career.pdf)
 
 Participated in cybersecurity specialist training at Course-Net Indonesia, EC-Council aligned, expert-led. Skilled in tackling security threats.
