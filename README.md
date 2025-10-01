@@ -5,7 +5,7 @@ An experienced offensive security specialist with a background as a Security Res
 ![Bash](https://img.shields.io/badge/bash-%2523121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Burp Suite](https://img.shields.io/badge/burp%20suite-%2523121011.svg?style=for-the-badge&logo=burpsuite&logoColor=white) ![Kali Linux](https://img.shields.io/badge/kali%20linux-%2523121011.svg?style=for-the-badge&logo=kali-linux&logoColor=white) ![Discord](https://img.shields.io/badge/discord-%2523121011.svg?style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # Badge:
-[TryHackMe OhSINT](https://tryhackme.com/1337rokudenashi/badges/ohsint?trk=public_profile_see-credential)
+[TryHackMe OhSINT](https://tryhackme.com/1337rokudenashi/badges/ohsint)
 
 OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it to solve challenges.
 
