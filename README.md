@@ -1,7 +1,7 @@
 # About Me:
 An experienced offensive security specialist with a background as a Security Researcher and Security Engineer. Skilled in offensive security tools such as Osmedeus, Nuclei, and Burp Suite, which are actively used in security testing, and experienced in orchestrating offensive security workflows and architecting Security as a Service (SECaaS).
 
-# ❤️ Stack:
+# Stack:
 ![Bash](https://img.shields.io/badge/bash-%2523121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Burp Suite](https://img.shields.io/badge/burp%20suite-%2523121011.svg?style=for-the-badge&logo=burpsuite&logoColor=white) ![Kali Linux](https://img.shields.io/badge/kali%20linux-%2523121011.svg?style=for-the-badge&logo=kali-linux&logoColor=white) ![Discord](https://img.shields.io/badge/discord-%2523121011.svg?style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # Badge:
@@ -18,9 +18,11 @@ OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it t
 - [Fortinet Certified Associate Cybersecurity](https://www.credly.com/badges/d00b6c04-b7f3-4725-a351-e5d055d65c30)
 
 # Award
-Hall of Fame for Security Researchers at KINTOテクノロジーズ株式会社 (see [1337rokudenashi](https://issuehunt.io/programs/fbf932b9-9969-499b-ae11-2e607dca3649/hof))
+- Hall of Fame | Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/43f8fcd7-430d-47e1-bc1b-4ed59352797d/hof))
+> 今日は、IssueHuntが行っている Bug Bounty Program にまた貢献しました。株式会社サイバーエージェント (CyberAgent Inc.) のシステムの安全を守る手助けができて、とても嬉しいです。
 
-今日は、IssueHuntが行っている Vulnerability Disclosure Program (VDP) にまた貢献しました。KINTOテクノロジーズ株式会社 のシステムの安全を守る手助けができて、とても嬉しいです。
+- Hall of Fame | Security Researchers at KINTOテクノロジーズ株式会社 (see [1337rokudenashi](https://issuehunt.io/programs/fbf932b9-9969-499b-ae11-2e607dca3649/hof))
+> 今日は、IssueHuntが行っている Vulnerability Disclosure Program にまた貢献しました。KINTOテクノロジーズ株式会社 のシステムの安全を守る手助けができて、とても嬉しいです。
 
 # Specialist Training Path
 [Accelerate Your IT Career](https://github.com/1337rokudenashi/1337r-dev/blob/main/Accelerate%20Your%20IT%20Career.pdf)
