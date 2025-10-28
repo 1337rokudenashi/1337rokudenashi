@@ -19,7 +19,8 @@ OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it t
 
 # Award
 - Hall of Fame | Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/43f8fcd7-430d-47e1-bc1b-4ed59352797d/hof))
-> 今日は、IssueHuntが行っている Bug Bounty Program にまた貢献しました。株式会社サイバーエージェント (CyberAgent Inc.) のシステムの安全を守る手助けができて、とても嬉しいです。
+- Hall of Fame | Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/75563b98-3a9c-4ca3-956d-07b30d5d3962/hof))
+> 今日は、IssueHuntを通じて株式会社サイバーエージェント（CyberAgent Inc.）が実施する Bug Bounty Program に貢献しました。Abema や Tapple などのサービスのセキュリティ向上に携われて光栄です。
 
 - Hall of Fame | Security Researchers at KINTOテクノロジーズ株式会社 (see [1337rokudenashi](https://issuehunt.io/programs/fbf932b9-9969-499b-ae11-2e607dca3649/hof))
 > 今日は、IssueHuntが行っている Vulnerability Disclosure Program にまた貢献しました。KINTOテクノロジーズ株式会社 のシステムの安全を守る手助けができて、とても嬉しいです。
