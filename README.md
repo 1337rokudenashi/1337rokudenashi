@@ -11,7 +11,7 @@ OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it t
 
 # Certifications:
 - [EC-Council Certified Threat Intelligence Analyst](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=dFBj4AjCFZBJcUCYap/bil6IuzQWVzJtE5T70qqNbps=)
-- [CyberWarFare Labs Certified Process Injection Analyst](https://www.credential.net/a59647d7-c097-4b0d-a0e1-e2f0133e3417)
+- [CyberWarFare Labs Certified Process Injection Analyst](https://labs.cyberwarfare.live/credential/achievement/691d7a3dfb2a2a72d8584c0d)
 - [EC-Council Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=nDcHPAP9kH258sl4cIswBSI0IUMxdXWpiUbVZciCD1g=)
 - [EC-Council Certified Secure Computer User](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=LtAsrApl+2gjyUmFGBjydd3wYOsggToiCQhCyoVrCpY=)
 - [CyberWarFare Labs Certified Cybersecurity Analyst](https://labs.cyberwarfare.live/credential/achievement/69085bd82dc1cc412983fd7d)
