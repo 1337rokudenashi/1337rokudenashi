@@ -10,14 +10,15 @@ An experienced offensive security specialist with a background as a Security Res
 OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it to solve challenges.
 
 # Certifications:
-- [EC-Council Certified Threat Intelligence Analyst](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=dFBj4AjCFZBJcUCYap/bil6IuzQWVzJtE5T70qqNbps=)
+- [CyberWarFare Labs Certified Red Team Analyst](https://labs.cyberwarfare.live/credential/achievement/6922a66ae0d2558f54194db4)
 - [CyberWarFare Labs Certified Process Injection Analyst](https://labs.cyberwarfare.live/credential/achievement/691d7a3dfb2a2a72d8584c0d)
+- [CyberWarFare Labs Certified Cybersecurity Analyst](https://labs.cyberwarfare.live/credential/achievement/69085bd82dc1cc412983fd7d)
+- [EC-Council Certified Threat Intelligence Analyst](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=dFBj4AjCFZBJcUCYap/bil6IuzQWVzJtE5T70qqNbps=)
 - [EC-Council Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=nDcHPAP9kH258sl4cIswBSI0IUMxdXWpiUbVZciCD1g=)
 - [EC-Council Certified Secure Computer User](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=LtAsrApl+2gjyUmFGBjydd3wYOsggToiCQhCyoVrCpY=)
-- [CyberWarFare Labs Certified Cybersecurity Analyst](https://labs.cyberwarfare.live/credential/achievement/69085bd82dc1cc412983fd7d)
 - [Fortinet Certified Associate Cybersecurity](https://www.credly.com/badges/d00b6c04-b7f3-4725-a351-e5d055d65c30)
 
-# Award
+# Awards
 - Hall of Fame | Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/43f8fcd7-430d-47e1-bc1b-4ed59352797d/hof))
 - Hall of Fame | Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/75563b98-3a9c-4ca3-956d-07b30d5d3962/hof))
 > 今日は、IssueHuntを通じて株式会社サイバーエージェント（CyberAgent Inc.）が実施する Bug Bounty Program に貢献しました。Abema や Tapple などのサービスのセキュリティ向上に携われて光栄です。
