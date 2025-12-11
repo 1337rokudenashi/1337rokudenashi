@@ -10,9 +10,9 @@ An experienced offensive security specialist with a background as a Security Res
 OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it to solve challenges.
 
 # Certifications:
-- [CyberWarFare Labs Certified Red Team Analyst](https://labs.cyberwarfare.live/credential/achievement/6922a66ae0d2558f54194db4)
-- [EC-Council Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=nDcHPAP9kH258sl4cIswBSI0IUMxdXWpiUbVZciCD1g=)
-- [EC-Council Certified Threat Intelligence Analyst](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=dFBj4AjCFZBJcUCYap/bil6IuzQWVzJtE5T70qqNbps=)
+- [Certified Red Team Analyst](https://labs.cyberwarfare.live/credential/achievement/6922a66ae0d2558f54194db4)
+- [Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=nDcHPAP9kH258sl4cIswBSI0IUMxdXWpiUbVZciCD1g=)
+- [Certified Threat Intelligence Analyst](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=dFBj4AjCFZBJcUCYap/bil6IuzQWVzJtE5T70qqNbps=)
 
 # Awards
 - Hall of Fame | Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/43f8fcd7-430d-47e1-bc1b-4ed59352797d/hof))
