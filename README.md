@@ -11,12 +11,8 @@ OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it t
 
 # Certifications:
 - [CyberWarFare Labs Certified Red Team Analyst](https://labs.cyberwarfare.live/credential/achievement/6922a66ae0d2558f54194db4)
-- [CyberWarFare Labs Certified Process Injection Analyst](https://labs.cyberwarfare.live/credential/achievement/691d7a3dfb2a2a72d8584c0d)
-- [CyberWarFare Labs Certified Cybersecurity Analyst](https://labs.cyberwarfare.live/credential/achievement/69085bd82dc1cc412983fd7d)
-- [EC-Council Certified Threat Intelligence Analyst](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=dFBj4AjCFZBJcUCYap/bil6IuzQWVzJtE5T70qqNbps=)
 - [EC-Council Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=nDcHPAP9kH258sl4cIswBSI0IUMxdXWpiUbVZciCD1g=)
-- [EC-Council Certified Secure Computer User](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=LtAsrApl+2gjyUmFGBjydd3wYOsggToiCQhCyoVrCpY=)
-- [Fortinet Certified Associate Cybersecurity](https://www.credly.com/badges/d00b6c04-b7f3-4725-a351-e5d055d65c30)
+- [EC-Council Certified Threat Intelligence Analyst](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=dFBj4AjCFZBJcUCYap/bil6IuzQWVzJtE5T70qqNbps=)
 
 # Awards
 - Hall of Fame | Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/43f8fcd7-430d-47e1-bc1b-4ed59352797d/hof))
@@ -30,4 +26,3 @@ OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it t
 [Accelerate Your IT Career](https://github.com/1337rokudenashi/1337r-dev/blob/main/Accelerate%20Your%20IT%20Career.pdf)
 
 Participated in cybersecurity specialist training at Course-Net Indonesia, EC-Council aligned, expert-led. Skilled in tackling security threats.
-
