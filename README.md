@@ -25,6 +25,6 @@ OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it t
 > 今日は、IssueHuntが行っている Vulnerability Disclosure Program にまた貢献しました。KINTOテクノロジーズ株式会社 のシステムの安全を守る手助けができて、とても嬉しいです。
 
 # Specialist Training Path
-[Accelerate Your IT Career](https://github.com/1337rokudenashi/1337r-dev/blob/main/Accelerate%20Your%20IT%20Career.pdf)
+[Accelerate Your IT Career](https://github.com/1337rokudenashi/1337rokudenashi/blob/main/Accelerate%20Your%20IT%20Career.pdf)
 
 Participated in cybersecurity specialist training at Course-Net Indonesia, EC-Council aligned, expert-led. Skilled in tackling security threats.
