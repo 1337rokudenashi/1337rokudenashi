@@ -13,8 +13,11 @@ OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it t
 
 # Certifications:
 - [Certified Red Team Analyst](https://labs.cyberwarfare.live/credential/achievement/6922a66ae0d2558f54194db4)
+> A Certified Red Team Analyst certification is awarded upon successful completion of the Cyberwarfare Labs Red Team Analyst training program and the 6-hour practical examination.
 - [Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=nDcHPAP9kH258sl4cIswBSI0IUMxdXWpiUbVZciCD1g=)
+> A Certified Ethical Hacker is a skilled professional who understands and knows how to look for weaknesses and vulnerabilities in target systems and uses the same knowledge and tools as a malicious hacker, but in a lawful and legitimate manner to assess the security posture of a target system(s). The Certified Ethical Hacker credential certifies individuals in the specific network security discipline of Ethical Hacking from a vendor-neutral perspective.
 - [Certified Threat Intelligence Analyst](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=dFBj4AjCFZBJcUCYap/bil6IuzQWVzJtE5T70qqNbps=)
+> A Certified Threat Intelligence Analyst has professional knowledge that is required at all the stages involved in the Threat Intelligence Life Cycle.
 
 # Awards
 - Hall of Fame | Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/43f8fcd7-430d-47e1-bc1b-4ed59352797d/hof))
