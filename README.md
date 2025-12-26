@@ -7,9 +7,8 @@ An experienced offensive security specialist with a background as a Security Res
 ![Bash](https://img.shields.io/badge/bash-%2523121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Burp Suite](https://img.shields.io/badge/burp%20suite-%2523121011.svg?style=for-the-badge&logo=burpsuite&logoColor=white) ![Kali Linux](https://img.shields.io/badge/kali%20linux-%2523121011.svg?style=for-the-badge&logo=kali-linux&logoColor=white) ![Discord](https://img.shields.io/badge/discord-%2523121011.svg?style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # Badge:
-[TryHackMe OhSINT](https://tryhackme.com/1337rokudenashi/badges/ohsint)
-
-OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it to solve challenges.
+- [TryHackMe OhSINT](https://tryhackme.com/1337rokudenashi/badges/ohsint)
+> OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it to solve challenges.
 
 # Certifications:
 - [Certified Red Team Analyst](https://labs.cyberwarfare.live/credential/achievement/6922a66ae0d2558f54194db4)
@@ -20,14 +19,16 @@ OhSINT badge on TryHackMe, skilled in Open Source Intelligence, able to use it t
 > A Certified Threat Intelligence Analyst has professional knowledge that is required at all the stages involved in the Threat Intelligence Life Cycle.
 
 # Awards
-- Hall of Fame | Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/43f8fcd7-430d-47e1-bc1b-4ed59352797d/hof))
-- Hall of Fame | Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/75563b98-3a9c-4ca3-956d-07b30d5d3962/hof))
-> 今日は、IssueHuntを通じて株式会社サイバーエージェント（CyberAgent Inc.）が実施する Bug Bounty Program に貢献しました。Abema や Tapple などのサービスのセキュリティ向上に携われて光栄です。
+- Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/72c9712d-1727-47a1-8b1e-e51940135e64/hof))
+- Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/43f8fcd7-430d-47e1-bc1b-4ed59352797d/hof))
+- Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/75563b98-3a9c-4ca3-956d-07b30d5d3962/hof))
+> 今日は、IssueHuntを通じて株式会社サイバーエージェント（CyberAgent Inc.）が実施する Bug Bounty Program に貢献しました。Abema、Tapple、Winticket などのサービスのセキュリティ向上に携われて光栄です。
 
 - Hall of Fame | Security Researchers at KINTOテクノロジーズ株式会社 (see [1337rokudenashi](https://issuehunt.io/programs/fbf932b9-9969-499b-ae11-2e607dca3649/hof))
 > 今日は、IssueHuntが行っている Vulnerability Disclosure Program にまた貢献しました。KINTOテクノロジーズ株式会社 のシステムの安全を守る手助けができて、とても嬉しいです。
 
 # Specialist Training Path
-[Accelerate Your IT Career](https://github.com/1337rokudenashi/1337rokudenashi/blob/main/Accelerate%20Your%20IT%20Career.pdf)
+- [Accelerate Your IT Career](https://github.com/1337rokudenashi/1337rokudenashi/blob/main/Accelerate%20Your%20IT%20Career.pdf)
+> Participated in cybersecurity specialist training at Course-Net Indonesia, EC-Council aligned, expert-led. Skilled in tackling security threats.
 
-Participated in cybersecurity specialist training at Course-Net Indonesia, EC-Council aligned, expert-led. Skilled in tackling security threats.
+A Security Researcher and Security Engineer, I turn offensive security skills to help organizations anticipate and respond to security threats.
