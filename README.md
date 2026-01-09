@@ -1,10 +1,10 @@
-![1337rokudenashi](https://raw.githubusercontent.com/1337rokudenashi/1337rokudenashi/main/1337rokudenashi.jpg)
+![1337rokudenashi](https://wata-tabe.com/wp/wp-content/uploads/2025/06/og.jpg)
 
 # About Me:
 An experienced offensive security specialist with a background as a Security Researcher and Security Engineer. Skilled in offensive security tools such as Osmedeus, Nuclei, and Burp Suite, which are actively used in security testing, also skilled with Wazuh XDR/SIEM and Suricata IDS/IPS, which are actively used in security monitoring, as well as in manual threat hunting to uncover exploitable threats, and experienced in orchestrating offensive security workflows and architecting Security as a Service (SECaaS).
 
 # Stack:
-![Bash](https://img.shields.io/badge/bash-%2523121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Burp Suite](https://img.shields.io/badge/burp%20suite-%2523121011.svg?style=for-the-badge&logo=burpsuite&logoColor=white) ![Kali Linux](https://img.shields.io/badge/kali%20linux-%2523121011.svg?style=for-the-badge&logo=kali-linux&logoColor=white) ![Discord](https://img.shields.io/badge/discord-%2523121011.svg?style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%2523121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%2523121011.svg?style=for-the-badge&logo=linux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/burp%20suite-%2523121011.svg?style=for-the-badge&logo=burpsuite&logoColor=white) ![Wazuh XDR/SIEM](https://img.shields.io/badge/w.%20%20wazuh%20xdr/siem-%2523121011.svg?style=for-the-badge&logo=w.%20%20wazuh%20xdr/siem&logoColor=white) ![Ollama](https://img.shields.io/badge/ollama-%2523121011.svg?style=for-the-badge&logo=ollama&logoColor=white)
 
 # Badge:
 - [TryHackMe OhSINT](https://tryhackme.com/1337rokudenashi/badges/ohsint)
