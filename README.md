@@ -1,4 +1,4 @@
-![1337rokudenashi](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/da/54/9ada5458-1c44-a843-afe0-15e1bf759f1f/PCSP_06957_A.jpg/1200x630cw.png)
+![1337rokudenashi](https://raw.githubusercontent.com/1337rokudenashi/1337rokudenashi/refs/heads/main/Sugarless-GiRL.png)
 
 # About Me:
 An experienced offensive security specialist with a background as a Security Researcher and Security Engineer. Skilled in offensive security tools such as Osmedeus, Nuclei, and Burp Suite, which are actively used in security testing, also skilled with Wazuh XDR/SIEM and Suricata IDS/IPS, which are actively used in security monitoring, as well as in manual threat hunting to uncover exploitable threats, and experienced in orchestrating offensive security workflows and architecting Security as a Service (SECaaS).
